@@ -1,0 +1,43 @@
+h1 {
+    padding-bottom: 3em;
+}
+
+.orange-box {
+    border-top: 73px solid sandybrown;
+    border-right: 20px solid sandybrown;
+    border-bottom: 73px solid sandybrown;
+    border-left: 20px solid sandybrown;
+    background-color: orange;
+}
+
+.green-box {
+    padding: 50px;
+    background-color: green;
+    border: 3px solid black;
+}
+
+.content{
+    background-color: white;
+}
+
+.little-box {
+    margin-left: 15em;
+    margin-top: 2.5em;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.padding {
+    padding: 0.5em;
+    background-color: green;
+}
+
+.margin {
+    padding: 0.5em;
+    background-color: sandybrown;
+}
+
+.border {
+    padding: 0.3em;
+    border: 3px solid black;
+}
